@@ -1,6 +1,6 @@
 streamlit
-torch
-transformers
-opencv-python
+torch==2.0.1
+transformers==4.39.3
+opencv-python-headless==4.8.0.76
 pillow
 pandas

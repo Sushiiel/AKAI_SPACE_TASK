@@ -1,6 +1,6 @@
-streamlit>=1.30.0
-torch>=2.0.0
-transformers>=4.36.0
+streamlit
+torch
+transformers
 opencv-python
 pillow
 pandas
